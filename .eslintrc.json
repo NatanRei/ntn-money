@@ -1,0 +1,3 @@
+{
+    "extends": "@rockeatseat/eslint-config/react"
+}

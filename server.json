@@ -1,20 +1,60 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description" : "Desenvolvimento de site",
-            "type": "income",
-            "category": "Vendas",
-            "price": 14000,
-            "createdAt": "2023-01-14T12:09:52.849Z"
-        },
-        {
-            "id": 2,
-            "description" : "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-01-14T12:04:52.849Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Vendas",
+      "price": 14000,
+      "createdAt": "2023-01-14T12:09:52.849Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-01-14T12:04:52.849Z"
+    },
+    {
+      "category": "Alimentação",
+      "description": "banana",
+      "price": 3,
+      "type": "outcome",
+      "createdAt": "2023-01-14T20:52:46.216Z",
+      "id": 3
+    },
+    {
+      "category": "Alimentação",
+      "description": "laranja",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2023-01-14T20:53:23.276Z",
+      "id": 4
+    },
+    {
+      "category": "Trabalho",
+      "description": "programação",
+      "price": 1500,
+      "type": "income",
+      "createdAt": "2023-01-14T20:53:58.222Z",
+      "id": 5
+    },
+    {
+      "category": "Trabalho",
+      "description": "teste '121231",
+      "price": 56757,
+      "type": "outcome",
+      "createdAt": "2023-01-14T21:02:09.736Z",
+      "id": 6
+    },
+    {
+      "category": "Alimentação",
+      "description": "485455",
+      "price": 2626,
+      "type": "income",
+      "createdAt": "2023-01-14T23:06:15.974Z",
+      "id": 7
+    }
+  ]
 }
